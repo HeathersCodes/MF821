@@ -25,9 +25,17 @@ HW2:
 
 ## FYI
 ### Installations
+1. Use package manager [pip](https://pip.pypa.io/en/stable/) to install package.  
+i.e.
+```bash
+pip install zipfile
+```  
+2. Install TWS Station and TWS Station API on the website.  
+Although after logging in, there are things u need to figure out.
 
 ### References
 
 ### Useful Commands in Terminal (Mac Version)
+```bash ls ``` 
 
 
