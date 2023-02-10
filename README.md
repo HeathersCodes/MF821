@@ -25,8 +25,7 @@ HW2:
 
 ## FYI
 ### Installations
-1. Use package manager [pip](https://pip.pypa.io/en/stable/) to install package.  
-i.e.
+1. Use package manager [pip](https://pip.pypa.io/en/stable/) to install package in your Mac Terminal. i.e.  
 ```bash
 pip install zipfile
 ```  
@@ -36,6 +35,6 @@ Although after logging in, there are things u need to figure out.
 ### References
 
 ### Useful Commands in Terminal (Mac Version)
-```bash ls ``` 
+```bash  ls ``` 
 
 
