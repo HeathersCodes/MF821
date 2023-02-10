@@ -37,6 +37,7 @@ Although after logging in, there are things u need to figure out.
 ### Useful Commands in Terminal (Mac Version)
 ```bash  
 ls ```
+
 ```bash  
 cd ``` 
 
