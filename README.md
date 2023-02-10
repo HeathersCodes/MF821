@@ -4,6 +4,7 @@ Spring 2023, Math Finance, Boston University
 ## Completed
 HW1:  
 1. Most of questions.  
+
 HW2:  
 1. All questions.  
 
@@ -14,7 +15,7 @@ HW1:
 3. I actually don't wanna create so many dataframes and symbols in the class.
   
 HW2:  
-5. I actually wanna create a class to solve all questions cuz it seems more clear and less codes by applying class.
+1. I actually wanna create a class to solve all questions cuz it seems more clear and less codes by applying class.
 
 ## FYI
 
