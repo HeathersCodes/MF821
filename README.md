@@ -44,7 +44,8 @@ Although after logging in, there are things u still need to figure out.
 [TWS Beginner](https://tradersacademy.online/trading-lesson/tws-beginners-course-intro)
 
 ### Useful Commands in Terminal (Mac Version)
-Check the all file names in current directory: <pre>ls</pre>.  
-Move to specific directory: <pre>cd</pre>
-
+Already known usage of <pre>pip</pre>
+Check the all file names in current directory: <pre>ls</pre>
+Move to specific directory. i.e. Move from default to Desktop <pre>cd Desktop</pre>
+Print the path of the current: <pre>pwd</pre>
 
