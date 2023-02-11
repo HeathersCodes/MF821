@@ -8,7 +8,7 @@ Will get a paper account by an invitaion emails assuming being enrolled.
 2. Coding relative clear and simple codes at the limited time. If over the limited time I set, I would not explore better way for coding.  
 3. Learn Github Basic Commands.
 
-![](/Users/heather0109/Downloads/Cat.GIF)
+![Good Luck](/Users/heather0109/Downloads/Cat.GIF)
 
 
 ## Completed
@@ -47,8 +47,8 @@ Although after logging in, there are things u still need to figure out.
 [TWS Beginner](https://tradersacademy.online/trading-lesson/tws-beginners-course-intro)
 
 ### Useful Commands in Terminal (Mac Version)
-Already known usage of `pip`
-Check the all file names in current directory: `ls`
-Move to specific directory. i.e. Move from default to Desktop: `cd Desktop`
+Already known usage of `pip`  
+Check the all file names in current directory: `ls`.  
+Move to specific directory. i.e. Move from default to Desktop: `cd Desktop`.  
 Print the path of the current: `pwd`
 
