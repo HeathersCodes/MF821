@@ -1,5 +1,5 @@
 # ![](https://github.com/HeathersCodes/MF821/blob/main/Cat.GIF)
-<b>MF821<b>  
+**MF821**  
 Spring 2023, Math Finance, Boston University.  
 This is not C++-Based but Python-Based course.  
 Will get a paper account by an invitaion emails assuming being enrolled.
