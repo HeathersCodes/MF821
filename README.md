@@ -48,7 +48,7 @@ Although after logging in, there are things u still need to figure out.
 
 ### Useful Commands in Terminal (Mac Version)
 Already known usage of <pre>pip</pre>
-Check the all file names in current directory: <pre>ls</pre>
-Move to specific directory. i.e. Move from default to Desktop <pre>cd Desktop</pre>
-Print the path of the current: <pre>pwd</pre>
-<pre>pip</pre> <pre>pwd</pre>
+Check the all file names in current directory: 'ls'
+Move to specific directory. i.e. Move from default to Desktop: 'cd Desktop'
+Print the path of the current: 'pwd'
+
