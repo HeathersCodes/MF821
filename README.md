@@ -1,4 +1,4 @@
-# MF821
+# MF821 ![](https://github.com/HeathersCodes/MF821/blob/main/Cat.GIF)
 Spring 2023, Math Finance, Boston University.  
 This is not C++-Based but Python-Based course.  
 Will get a paper account by an invitaion emails assuming being enrolled.
@@ -8,7 +8,6 @@ Will get a paper account by an invitaion emails assuming being enrolled.
 2. Coding relative clear and simple codes at the limited time. If over the limited time I set, I would not explore better way for coding.  
 3. Learn Github Basic Commands.
 
-![](https://github.com/HeathersCodes/MF821/blob/main/Cat.GIF)
 
 
 ## Completed
