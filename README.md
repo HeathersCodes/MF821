@@ -4,9 +4,12 @@ This is not C++-Based but Python-Based course.
 Will get a paper account by an invitaion emails assuming being enrolled.
 
 ## My Goals for creating this respository
-1. Make common sense in Math Finance/Finance Engineering which means I wanna try focusing on finance intuition more than coding things.  
+1. Make common sense in Math Finance/Financial Engineering which means I wanna try focusing on finance intuition more than coding things.  
 2. Coding relative clear and simple codes at the limited time. If over the limited time I set, I would not explore better way for coding.  
 3. Learn Github Basic Commands.
+
+
+
 
 ## Completed
 HW1:  
@@ -48,4 +51,4 @@ Already known usage of <pre>pip</pre>
 Check the all file names in current directory: <pre>ls</pre>
 Move to specific directory. i.e. Move from default to Desktop <pre>cd Desktop</pre>
 Print the path of the current: <pre>pwd</pre>
-
+<pre>pip</pre> <pre>pwd</pre>
