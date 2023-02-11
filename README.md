@@ -40,6 +40,7 @@ Although after logging in, there are things u still need to figure out.
 [Pandas](https://pandas.pydata.org)  
 [Scipy](https://docs.scipy.org/doc/scipy/)  
 [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)  [Plotly](https://plotly.com/python/)  
+[os](https://docs.python.org/3/library/os.html)  
 [API](https://interactivebrokers.github.io/tws-api/introduction.html)  
 [TWS Station API Instruction](https://tradersacademy.online/trading-lesson/what-is-the-tws-api)  
 [TWS Beginner](https://tradersacademy.online/trading-lesson/tws-beginners-course-intro)
