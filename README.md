@@ -1,6 +1,7 @@
 # MF821
 Spring 2023, Math Finance, Boston University.  
-This is not C++-Based but Python-Based course.
+This is not C++-Based but Python-Based course.  
+Will get a paper account by an invitaion emails assuming being enrolled.
 
 ## My Goals for creating this respository
 1. Make common sense in Math Finance/Finance Engineering which means I wanna try focusing on finance intuition more than coding things.  
@@ -30,20 +31,19 @@ HW2:
 pip install zipfile
 ```  
 2. Install TWS Station and TWS Station API on the website.  
-Although after logging in, there are things u need to figure out.
+Although after logging in, there are things u still need to figure out.
 
 ### References
 [Textbook: Algorithmic and high-frequency trading](https://www.amazon.com/Algorithmic-High-Frequency-Trading-Mathematics-Finance/dp/1107091144)  
 [Numpy](https://numpy.org)  
 [Pandas](https://pandas.pydata.org)  
-[Scipy](https://docs.scipy.org/doc/scipy/)
-[Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)  
-[Plotly](https://plotly.com/python/)  
+[Scipy](https://docs.scipy.org/doc/scipy/)  
+[Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)  [Plotly](https://plotly.com/python/)  
 [API](https://interactivebrokers.github.io/tws-api/introduction.html)  
 [TWS Station API Instruction](https://tradersacademy.online/trading-lesson/what-is-the-tws-api)  
 [TWS Beginner](https://tradersacademy.online/trading-lesson/tws-beginners-course-intro)
 
 ### Useful Commands in Terminal (Mac Version)
-
+"ls"  "cd"
 
 
