@@ -2,7 +2,7 @@
 **MF821**  
 Spring 2023, Algorithmic and HFT, Math Finance, Boston University.  
 Homework is **not** C++-Based but Python-Based.  
-Will get a paper account by an invitaion emails assuming being enrolled.
+Will get a paper account by an invitaion email assuming being enrolled by this course.
 
 ## My Goals for creating this respository
 1. Make common sense in Math Finance/Financial Engineering which means I wanna try focusing on finance intuition more than coding things.  
