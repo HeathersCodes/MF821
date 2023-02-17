@@ -23,7 +23,11 @@ HW1:
 3. I actually don't wanna create so many dataframes and symbols in the class.
   
 HW2:  
-1. I actually wanna create one or more classes, not several separate functions, to solve all questions
+1. I actually wanna create one or more classes, not several separate functions, to solve all questions.   
+
+HW3(Quiz 1):   
+My bad. simply miss this quiz...
+
 
 ## FYI
 ### Installations
