@@ -24,8 +24,8 @@ HW1:
   
 HW2:  
 1. I actually wanna create one or more classes, not several separate functions, to solve all questions.   
-### Error in Original Codes
-There are some mistakes in Original Codes: Assigning all the same values to different columns in Question4 and assigning BAC returns to SPY. I may need to name the variables more clearly from now on......So I renew the updated version.
+**Error in Original Codes**   
+There are some mistakes in Original Codes: Assigning all the same values to different columns in Question4 and assigning BAC returns to SPY. I may need to name the variables more clearly from now on......Anyway, I renew the updated version.
 
 HW3(Quiz 1):   
 My bad. simply miss this quiz...
