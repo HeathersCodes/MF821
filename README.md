@@ -1,15 +1,13 @@
 # ![](https://github.com/HeathersCodes/MF821/blob/main/Cat.jpg)
 **MF821**  
-Spring 2023, Math Finance, Boston University.  
-This is not C++-Based but Python-Based course.  
-Will get a paper account by an invitaion emails assuming being enrolled.
+Spring 2023, Algorithmic and HFT, Math Finance, Boston University.  
+Homework is **not** C++-Based but Python-Based.  
+Will get a paper account by an invitaion email assuming being enrolled by this course.
 
 ## My Goals for creating this respository
 1. Make common sense in Math Finance/Financial Engineering which means I wanna try focusing on finance intuition more than coding things.  
-2. Coding relative clear and simple codes at the limited time. If over the limited time I set, I would not explore better way for coding.  
+2. Coding relatively clearly and simply at the limited time. If over the limited time I set, I would not explore better way for coding.  
 3. Learn Github Basic Commands.
-
-
 
 ## Completed
 HW1:  
@@ -25,7 +23,11 @@ HW1:
 3. I actually don't wanna create so many dataframes and symbols in the class.
   
 HW2:  
-1. I actually wanna create a class to solve all questions cuz it seems more clear and less codes by applying class.
+1. I actually wanna create one or more classes, not several separate functions, to solve all questions.   
+
+HW3(Quiz 1):   
+My bad. simply miss this quiz...
+
 
 ## FYI
 ### Installations
@@ -42,6 +44,7 @@ Although after logging in, there are things u still need to figure out.
 [Pandas](https://pandas.pydata.org)  
 [Scipy](https://docs.scipy.org/doc/scipy/)  
 [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)  [Plotly](https://plotly.com/python/)  
+[os](https://docs.python.org/3/library/os.html)  
 [API](https://interactivebrokers.github.io/tws-api/introduction.html)  
 [TWS Station API Instruction](https://tradersacademy.online/trading-lesson/what-is-the-tws-api)  
 [TWS Beginner](https://tradersacademy.online/trading-lesson/tws-beginners-course-intro)
