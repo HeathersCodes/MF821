@@ -16,6 +16,9 @@ HW1:
 HW2:  
 1. All questions.  
 
+HW4:
+1. All questions. Follow the instruction from slides and codes.
+
 ## Incompleted
 HW1:  
 1. Cannot find Bid/Ask Volumes in self.reqHistoricalData Method.  
