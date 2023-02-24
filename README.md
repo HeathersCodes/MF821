@@ -17,7 +17,7 @@ HW2:
 1. All questions.  
 
 HW4:
-1. All questions. Follow the instruction from slides and codes.
+1. All questions. Follow the instruction from slides and Code.
 
 ## Incompleted
 HW1:  
