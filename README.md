@@ -17,7 +17,10 @@ HW2:
 1. All questions.  
 
 HW4:
-1. All questions. Follow the instruction from slides and Code.
+1. All questions. Follow the instruction from slides and Code.    
+
+HW5:    
+1. All questions  
 
 ## Incompleted
 HW1:  
@@ -31,8 +34,10 @@ HW2:
 There are some mistakes in Original Codes: Assigning all the same values to different columns in Question4 and assigning BAC returns to SPY. I may need to name the variables more clearly from now on......Anyway, I renew the updated version.
 
 HW3(Quiz 1):   
-My bad. simply miss this quiz...
+My bad. simply miss this quiz...   
 
+HW5:   
+1. I don't check the answer   
 
 ## FYI
 ### Installations
@@ -42,6 +47,8 @@ pip install zipfile
 ```  
 2. Install TWS Station and TWS Station API on the website.  
 Although after logging in, there are things u still need to figure out.
+## Read .ipynb file online
+[nbviewer](https://nbviewer.org)
 
 ### References
 [Textbook: Algorithmic and high-frequency trading](https://www.amazon.com/Algorithmic-High-Frequency-Trading-Mathematics-Finance/dp/1107091144)  
