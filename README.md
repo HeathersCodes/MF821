@@ -22,6 +22,9 @@ HW4:
 HW5:    
 1. All questions  
 
+HW6:   
+1. All. all of hw6 are about math-related Questions
+
 ## Incompleted
 HW1:  
 1. Cannot find Bid/Ask Volumes in self.reqHistoricalData Method.  
