@@ -41,6 +41,11 @@ My bad. simply miss this quiz...
 
 HW5:   
 1. I don't check the answer   
+**Feedback**    
+In Q2 you should trade 10% of the volume until all shares are sold out, and no need to trade linearly anymore.
+
+
+
 
 ## FYI
 ### Installations
